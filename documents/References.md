@@ -171,7 +171,8 @@
 ## 流程和工具
 
 * 单元测试：https://www.zhihu.com/question/28729261
-* Docker：https://github.com/Snailclimb/JavaGuide/blob/master/docs/tools/Docker.md
+* Docker：[https://github.com/Snailclimb/JavaGuide/blob/master/docs/tools/Docker.md](https://javaguide.cn/tools/docker/docker-intro.html)
+* k8s简介: https://www.51cto.com/article/707183.html
 * CI/CD：https://www.ruanyifeng.com/blog/2015/09/continuous-integration.html
 
 # 第二十讲 - 总结
